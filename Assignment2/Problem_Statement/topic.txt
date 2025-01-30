@@ -1,0 +1,1 @@
+Supervised Learning Methods - Classification algorithms for spam detection in Emails 
