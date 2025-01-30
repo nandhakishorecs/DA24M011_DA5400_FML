@@ -1,4 +1,4 @@
-DA5400 is a mandatory course for the First Year of Masters in Technology in Data Science and AI at the Indian Institute of Technology Madras. 
+DA5400 - Foundation of Machine Leanring, is a mandatory course for the First Year of Masters in Technology in Data Science and AI at the Indian Institute of Technology Madras. 
 
 Course Instructor: Dr Arun Rajkumar, Wadhwani School of Data Science and AI, IIT Madras 
 
