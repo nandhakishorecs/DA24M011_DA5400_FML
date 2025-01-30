@@ -1,0 +1,1 @@
+To implement Linear Regression from Scratch, you need to install numpy, pandas and matplotlib in your system
