@@ -1,0 +1,1 @@
+Principal Component Analysis and KMeans Clustering from scratch with visualisation of the data without using any libraries
